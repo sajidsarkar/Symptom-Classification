@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+__pycache__
+nlp
+NLP_Symptom Identification
+flask_main.ipynb
+IBM.ipynb
+Practical NLP Notebooks.zip
+Regex.ipynb
+spam.csv
+spamham.ipynb
+test.csv
+train.csv
+GoogleNews-vectors-negative300.bin.gz
