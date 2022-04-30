@@ -1,5 +1,5 @@
 # Symptom Classification With Natural Language Processing
-When creating defect reports it is common for a Quality Technician to select an incorrect symptom, and making correction to those reports in the midst of production chaos is very difficult. To effectively and accurately analyze manufacturing quality defects, I wanted to create a Natural Language Processing (NLP) model that could classify each defect description text into accurate symptom type. Output from this project has great potential to benefit the production team with analyzing defects data without the need to manually fix incorrect symptom documentation.
+When creating defect reports it is common for a Quality Technician to select an incorrect symptom, and for a Quality Engineer to make correction to those reports in the midst of production chaos is very difficult. To effectively and accurately analyze manufacturing quality defects, I wanted to create a Natural Language Processing (NLP) model that could classify each defect description text into accurate symptom type. Output from this project has great potential to benefit the production team with analyzing defects data without the need to manually fix incorrect symptom documentation.
 
 ### Library Imports
 ```ruby
